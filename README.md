@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/ZeK/Downloads/ZEKER%C4%B0YYA%20ATICI.svg)]
+
 <h1 align="center">👋 Ben Zekeriyya Atıcı</h1>
 <h3 align="center">Programlamayı seven bir Mekatronik Mühendisliği öğrencisiyim.</h3>
 
