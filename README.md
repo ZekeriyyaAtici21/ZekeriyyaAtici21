@@ -1,3 +1,7 @@
+<h1 align="center">
+ <img src="https://i.hizliresim.com/i2wsiwi.png" />
+</h1>
+
 
 <h1 align="center">👋 Ben Zekeriyya Atıcı</h1>
 <h3 align="center">Programlamayı seven bir Mekatronik Mühendisliği öğrencisiyim.</h3>
