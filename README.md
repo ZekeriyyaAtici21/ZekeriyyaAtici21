@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFZhqtN4XU/d_z2RY4BIb75n6vZWpYcuw/edit?analyticsCorrelationId=40ac7821-27c2-466e-8668-2e944a806970)]
+[![MasterHead](https://i.imgyukle.com/2023/04/19/QZurL8.png)]
 
 
 <h1 align="center">👋 Ben Zekeriyya Atıcı</h1>
