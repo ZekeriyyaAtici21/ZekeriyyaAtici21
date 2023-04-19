@@ -1,4 +1,4 @@
-![MasterHead]([https://i.imgyukle.com/2023/04/19/QZurL8.png](https://i.imgyukle.com/2023/04/19/QZuMAj.png](https://i.imgyukle.com/2023/04/19/QZuMAj.png))
+![MasterHead](https://i.imgyukle.com/2023/04/19/QZuMAj.png](https://i.imgyukle.com/2023/04/19/QZuMAj.png)
 
 
 <h1 align="center">👋 Ben Zekeriyya Atıcı</h1>
