@@ -1,6 +1,4 @@
-<h1 align="center">
- <img src="[https://www.canva.com/design/DAFZhQeDotE/rhOGEUXNaUaCbRX7w3gtfA/edit?analyticsCorrelationId=7ea34b11-439a-4299-8156-2ba1e1382b9b]" />
-</h1>
+[![MasterHead](https://www.canva.com/design/DAFZhqtN4XU/d_z2RY4BIb75n6vZWpYcuw/edit?analyticsCorrelationId=40ac7821-27c2-466e-8668-2e944a806970)]
 
 
 <h1 align="center">👋 Ben Zekeriyya Atıcı</h1>
